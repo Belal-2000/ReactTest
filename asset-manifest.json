@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Belal-2000/ReactTest.git/static/css/main.aa9fe80f.css",
+    "main.js": "/Belal-2000/ReactTest.git/static/js/main.914436d5.js",
+    "static/media/good.jpg": "/Belal-2000/ReactTest.git/static/media/good.950dbdb209009c2f4272.jpg",
+    "index.html": "/Belal-2000/ReactTest.git/index.html",
+    "main.aa9fe80f.css.map": "/Belal-2000/ReactTest.git/static/css/main.aa9fe80f.css.map",
+    "main.914436d5.js.map": "/Belal-2000/ReactTest.git/static/js/main.914436d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9fe80f.css",
+    "static/js/main.914436d5.js"
+  ]
+}
